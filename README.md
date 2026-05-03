@@ -1,4 +1,6 @@
-# CrowdPulse: AI-Powered Digital Twin for Campus Safety and Crisis Resilience
+# SPATIAL MONITORING DASHBOARD AND IoT FOR CAMPUS SAFETY AND CRISIS RESILIENCE
+## CROWDPULSE
+
 
 ## Overview
 
