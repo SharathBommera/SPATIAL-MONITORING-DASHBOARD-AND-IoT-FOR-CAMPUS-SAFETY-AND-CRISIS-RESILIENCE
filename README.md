@@ -1,6 +1,5 @@
 # SPATIAL MONITORING DASHBOARD AND IoT FOR CAMPUS SAFETY AND CRISIS RESILIENCE
-## CROWDPULSE
-
+The project is referred to as CROWDPULSE throughout the documentation.
 
 ## Overview
 
