@@ -1,0 +1,25 @@
+# CrowdPulse Digital Twin — Python Requirements
+# Install with: pip install -r requirements.txt
+
+# ── Web Server ─────────────────────────────────────────────────
+flask>=2.3.0
+flask-cors>=4.0.0
+waitress>=2.1.0             # Production WSGI server (stable on Windows)
+
+# ── Computer Vision ────────────────────────────────────────────
+ultralytics>=8.0.0          # YOLOv8 (person detection) + RT-DETR (fire detection)
+opencv-python>=4.8.0
+torch>=2.0.0                # PyTorch (CPU version is fine for demo)
+
+# ── Audio ──────────────────────────────────────────────────────
+sounddevice>=0.4.6
+scipy>=1.10.0
+
+# ── Multi-Modal Fusion System ──────────────────────────────────
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+pandas>=2.0.0
+
+# ── HTTP Client ────────────────────────────────────────────────
+requests>=2.31.0
